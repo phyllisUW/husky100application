@@ -355,25 +355,7 @@ h2 {
   letter-spacing: 1px;
 }
 
-#general .social-links a {
-  font-size: 35px;
-  display: inline-block;
-  background: #bbb7c1;
-  color: #fff;
-  line-height: 1;
-  padding: 8px 0;
-  margin-right: 2px;
-  border-radius: 70%;
-  text-align: center;
-  width: 50px;
-  height: 50px;
-  transition: 0.3s;
-}
 
-#general .social-links a:hover{
-  background: #a284cf;
-  color: #fff;
-}
 @media screen and (max-width: 992px) {
   #general {
     text-align: center;
