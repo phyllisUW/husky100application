@@ -372,8 +372,7 @@ h2 {
 
 #general .social-links a:hover{
   background: #a284cf;
-
-
+  color: #fff;
 }
 @media screen and (max-width: 992px) {
   #general {
